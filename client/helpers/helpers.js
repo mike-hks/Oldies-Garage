@@ -8,3 +8,9 @@ Template.mainMenuImages.helpers({
 	title_2: "Get Service",
 	title_3: "Articles"
 })
+
+Template.mainMenuImages.helpers({
+	src_1: "/tradeParts.jpg",
+	src_2: "/service.jpg",
+	src_3: "/articles.jpg"
+})
